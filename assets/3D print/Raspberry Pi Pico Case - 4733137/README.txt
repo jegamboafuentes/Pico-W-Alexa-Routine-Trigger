@@ -1,0 +1,4 @@
+Raspberry Pi Pico Case by Botvinnik on Thingiverse: https://www.thingiverse.com/thing:4733137
+
+Summary:
+Case for a Raspberry Pi Pico Microcontroller. There are several setups available, as both lower and upper parts have a version with holes in case you need to use a pin strip. M2x4mm should fit into holes (as there are no threads, you will need a screwdriver)..STEP file is provided for any further modification.Please notify any suggestions for future versions.Carcasa para un microcontrolador Raspberry Pi Pico. Existen diferentes configuraciones disponibles, ya que tanto la parte de arriba como la de abajo tienen una versión con agujeros por si es necesario utilizar una hilera de pines. Los tornillos para fijar la placa son M2x4mm (al no tener rosca hace falta usar un destornillador).Se incluye el fichero .STEP para realizar cualquier modificación.Se agradecen sugerencias para futuras versiones.
