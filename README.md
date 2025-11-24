@@ -6,6 +6,8 @@ This project uses a **Raspberry Pi Pico W** and a beautiful **Pimoroni Pico Scro
 
 ![image](https://github.com/jegamboafuentes/Pico-W-Alexa-Routine-Trigger/blob/main/assets/Images/alexaremotedemo.gif) 
 
+ [Medium Post](https://jegamboafuentes.medium.com/how-i-built-a-pico-w-remote-to-trigger-my-alexa-routines-083eb31a0212)
+
 ---
 
 ## ✨ Features: More Than Just Buttons
